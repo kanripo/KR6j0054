@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說金剛場莊嚴般若波羅蜜多教中一分
+#+DATE: 2015-08-30 20:24:46.783777
+#+PROPERTY: JUAN 0
